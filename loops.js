@@ -20,7 +20,13 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
-  incre
+  let i = 0;
+  incrementVariable(); {
+    i=i+1;
+  }
+do {
+  console.log
+}
 }
 
 
