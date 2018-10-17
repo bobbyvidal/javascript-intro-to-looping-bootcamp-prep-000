@@ -9,5 +9,7 @@ function forLoop(array) {
   return array;
 }
 function whileLoop(3) {
-  let countdown = 3
+  let countdown = 3;
+  
+  
 }
