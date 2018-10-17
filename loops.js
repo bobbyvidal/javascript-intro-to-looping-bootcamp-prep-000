@@ -1,4 +1,4 @@
-function forLoop(Array){
+function forLoop(array){
   for ( var i = 0; i < 10; i++)  {
     if (i === 1) {
       array.push("I am 1 strange loops.")
