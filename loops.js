@@ -8,6 +8,6 @@ function forLoop(array) {
   }
   return array;
 }
-function whileLoop(n) {
-  let
+function whileLoop(3) {
+  let countdown = 3
 }
