@@ -1,10 +1,12 @@
 function forLoop(Array){
   for ( var i = 0; i < 10; i++)  {
     if (i == 1); {
-      console.log("I am ${i} strange loops.")
+      array.push("I am 1 strange loops.")
       
     }
-    else ;
+    else; {
+      array.push("I am ${i} strange loops.")
+    }
     
     
     
